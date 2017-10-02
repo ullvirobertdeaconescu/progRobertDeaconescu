@@ -1,0 +1,5 @@
+/Users/robertdeaconescu/Projects/loopar/loopar/obj/x86/Debug/loopar.csproj.CoreCompileInputs.cache
+/Users/robertdeaconescu/Projects/loopar/loopar/bin/Debug/loopar.exe
+/Users/robertdeaconescu/Projects/loopar/loopar/bin/Debug/loopar.pdb
+/Users/robertdeaconescu/Projects/loopar/loopar/obj/x86/Debug/loopar.exe
+/Users/robertdeaconescu/Projects/loopar/loopar/obj/x86/Debug/loopar.pdb
